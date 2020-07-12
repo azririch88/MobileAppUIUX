@@ -70,7 +70,7 @@
 
 <p align="center">
 </p>
-## A natively-compiled applications for mobile, web, and desktop from a clean single codebase is awesome.
+## A natively-compiled applications for mobile, web, and desktop from a clean single codebase is awesome. Message me to know more on how to get mobile app like this for yourself. 
 
 <p align="center">
 </p> 
