@@ -3,7 +3,7 @@
 <img src="assets/promotional/developer.jpg" alt="DEVELOPER" />
 </p>
 
-## Mo Rich 
+## Mo Rich App Developer 
 
 <a href="https://www.amazon.com/Gift-Cards-Starbucks/s?rh=n%3A2238192011%2Cp_89%3AStarbucks" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" style="height: 55px !important;width: 150px !important;" ></a> 
 
@@ -19,46 +19,7 @@
 <a href="https://bit.ly/2Zd5V9A"><img src="assets/promotional/post-call-surveys.jpg" title="Visitor Survey 2" alt="visitor survey" style="height: 85px !important;width: 150px !important;"></a> 
 </p> 
 
-<p align="center">
-</p>
 
-## ~ Worst advice in the world is to lower your expectation. There is nothing motivating, hopeful, engaging, or exciting about lowering your expectations.
-
-<p align="center">
-</p>
-
-## ~ You Owe Yourself To Be Successful and No One Else.
-
-<p align="center">
-</p>
-
-## Expect Everything, Attach To Nothing.
-
-<p align="center">
-</p>
-
-## Let's protect Earth and keep clean.
-
-<p align="center">
-<a href="https://www.blockchain.com/btc/address/35yoS3XGFzzeQTehA6nc5TkiCt5zxxR1Na"><img src="assets/promotional/1200px-Bitcoin.svg.png" title="Bitcoin" alt="Buy Bitcoin" style="height: 150px !important;width: 150px !important;"></a>
-</p>
-
-<p align="center">
-</p>
-
-## Mo Rich eBooks on Amazon that is written by the one and only Azri Rich88
-
-<p align="center">
-<a href="https://www.amazon.ca/Iron-Mountain-Azril-Rich-ebook/dp/B07RP2L3XK"><img src="assets/promotional/515amKNoc+L.jpg" title="Iron Mountain" alt="Iron Mountain" style="height: 150px !important;width: 100px !important;"></a>
-</p>
-
-<p align="center">
-<a href="https://www.amazon.ca/dp/B07HZ1DGYX"><img src="assets/promotional/416KEtXz80L.jpg" title="Learn to trade" alt="Learn To Trade" style="height: 150px !important;width: 100px !important;"></a>
-</p>
-
-<p align="center">
-<a href="https://coinswitch.co/?ref=IRXUHRT56J"><img src="assets/promotional/1200px-Bitcoin.svg.png" title="Bitcoin" alt="Buy Bitcoin" style="height: 150px !important;width: 150px !important;"></a>
-</p>
 
 ## Day Trading App With Amazing Artificial Intelligence AI with best possible strategy for your Day Trading. Message me to know more on how to get this for yourself. 
 
