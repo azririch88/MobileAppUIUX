@@ -15,7 +15,7 @@
 <p align="center">
 <a href="https://bit.ly/2BOsv04"><img src="assets/promotional/post-call-surveys.jpg" title="Visitor Survey 1" alt="visitor survey" style="height: 85px !important;width: 150px !important;"></a> 
 </p>
-<p align="center">
+<p align="center"> 
 <a href="https://bit.ly/2Zd5V9A"><img src="assets/promotional/post-call-surveys.jpg" title="Visitor Survey 2" alt="visitor survey" style="height: 85px !important;width: 150px !important;"></a> 
 </p> 
 
