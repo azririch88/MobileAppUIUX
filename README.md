@@ -3,7 +3,7 @@
 <img src="assets/promotional/developer.jpg" alt="DEVELOPER" />
 </p>
 
-## Mo Rich App Developer 
+## Mo Rich App and Web Developer? 
 
 <a href="https://www.amazon.com/Gift-Cards-Starbucks/s?rh=n%3A2238192011%2Cp_89%3AStarbucks" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" style="height: 55px !important;width: 150px !important;" ></a> 
 
