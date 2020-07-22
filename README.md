@@ -1,6 +1,6 @@
 # MobileAppUIUX
 <p align="center">
-<img src="assets/promotional/developer.jpg" alt="DEVELOPER" />
+<img src="assets/promotional/IMG_20200722_173816.png" alt="DEVELOPER" />
 </p>
 
 ## Mo Rich App and Web Developer? 
