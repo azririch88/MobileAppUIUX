@@ -3,7 +3,7 @@
 <img src="assets/IMG_20200722_173816.png" alt="DEVELOPER" />
 </p>
 
-## Mo Rich App and Web Developer? 
+## Mo Rich App
 
 <a href="https://www.amazon.com/Gift-Cards-Starbucks/s?rh=n%3A2238192011%2Cp_89%3AStarbucks" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" style="height: 55px !important;width: 150px !important;" ></a> 
 
@@ -28,15 +28,13 @@
 <a href="https://bit.ly/2Zd5V9A"><img src="assets/promotional/post-call-surveys.jpg" title="Visitor Survey 2" alt="visitor survey" style="height: 85px !important;width: 150px !important;"></a> 
 </p> 
 
-
-
-## Day Trading App With Amazing Artificial Intelligence AI with best possible strategy for your Day Trading. Message me to know more on how to get this for yourself. 
+## Day Trading App With Artificial Intelligence AI with best possible strategy for your Day Trading. Tested. Message me to know more on how to get this for yourself. 
 
 <p align="center">
 </p> 
 
 
-## Number Probability Software Mobile App with Exact Results 99% . Message me to know more on how to get this for yourself. 
+## Number Probability Software Mobile App with Exact Results 99% . Tested. Message me to know more on how to get this for yourself. 
 
 <p align="center">
 </p>
@@ -64,7 +62,7 @@
 <p align="center">
 </p>
 <p align="center">
-<a href="https://m.youtube.com/channel/UCGQ3vgeqmGHVanIcw6Up99A"><img src="assets/promotional/youtube.png" title="Mo Rich Channel" alt="youtube-video" style="height: 30px !important;width: 150px !important;"></a> 
+<a href="https://youtu.be/RcQNgNWaBHc"><img src="assets/promotional/youtube.png" title="Azril Techy Channel" alt="youtube-video" style="height: 30px !important;width: 150px !important;"></a> 
 </p>
 <p align="center">
 <a href="https://us04web.zoom.us/j/73617757827?pwd=ZER1dXQrakNGWXI2aG5Uc24yOVVGZz09"><img src="assets/promotional/zoom.png" title="Mo Rich Channel" alt="zoom" style="height: 150px !important;width: 150px !important;"></a>
