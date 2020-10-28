@@ -76,6 +76,6 @@
 
 ## Support Me
 
-## If this is useful for you, support me [buy me a coffee!](https://www.amazon.com/Gift-Cards-Starbucks/s?rh=n%3A2238192011%2Cp_89%3AStarbucks).
+## If this is useful for you, support me [buy me a coffee!](https://amzn.to/2HGHe0h).
 
 ## Do you want to add yours? [Reach me out](https://azririch88.github.io/MobileAppUIUX/)
