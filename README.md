@@ -1,7 +1,5 @@
 # MobileAppUIUX
-<p align="center">
-<img src="assets/IMG_20200722_173816.png" alt="DEVELOPER" />
-</p>
+
 
 ## Azril Amir @MoRichChannel 
 ## http://www.kpchost.net
